@@ -1,0 +1,23 @@
+<?php
+// Dolibarr local configuration generated for this workspace
+
+$dolibarr_main_url_root='http://127.0.0.1:8000';
+$dolibarr_main_document_root='E:/dolibarr-develop/htdocs';
+$dolibarr_main_url_root_alt='';
+$dolibarr_main_document_root_alt='';
+$dolibarr_main_data_root='E:/dolibarr-develop/documents';
+
+$dolibarr_main_db_host='127.0.0.1';
+$dolibarr_main_db_port='3306';
+$dolibarr_main_db_name='dolibarr';
+$dolibarr_main_db_user='dolibarr';
+$dolibarr_main_db_pass='dolibarr';
+$dolibarr_main_db_type='mysqli';
+$dolibarr_main_db_character_set='utf8';
+$dolibarr_main_db_collation='utf8_unicode_ci';
+$dolibarr_main_db_encryption=0;
+$dolibarr_main_db_cryptkey='';
+$dolibarr_main_dolcrypt_key='change-me';
+$dolibarr_main_instance_unique_id='replace-me-with-a-unique-id';
+
+?>
